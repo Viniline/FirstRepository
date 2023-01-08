@@ -1,6 +1,2 @@
-# Master Branch
-## myBranch
-This is made in myBranch
-=======
+## Master Branch
 This change is made in master branch
-
